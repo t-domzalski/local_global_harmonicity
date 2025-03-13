@@ -1,0 +1,3 @@
+[submodule "inharmonicon"]
+	path = inharmonicon
+	url = https://github.com/k-basinski/inharmonicon
